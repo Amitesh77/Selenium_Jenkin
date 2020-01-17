@@ -19,7 +19,8 @@ public class TC_001 {
 		
 		driver.findElement(By.id("email")).sendKeys("amit@gmail.com");
 		driver.findElement(By.id("pass")).sendKeys("fjeerjferkj");
-		driver.quit();		
+		driver.quit();	
+		System.out.println("Yahooo");
 		
 	}
 
