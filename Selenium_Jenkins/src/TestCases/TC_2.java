@@ -22,6 +22,7 @@ public class TC_2 {
 		driver.findElement(By.id("pass")).sendKeys("fjeerjferkj");
 		driver.quit();		
 		System.out.println("Yahooo");
+		System.out.println("Uhooohooo");
 		
 	}
 
